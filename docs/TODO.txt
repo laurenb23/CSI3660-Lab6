@@ -1,0 +1,5 @@
+1) Upload media files to the Plex Server
+2) Implement another script
+3) Get the backup strategory working
+4) Continue webpage work 
+5) Check logs
